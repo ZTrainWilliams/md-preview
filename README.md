@@ -3,7 +3,7 @@
 基于@kangc/v-md-editor 、vue2 的 markdown 预览组件，封装包含功能代码高亮、katex 公式、流程图、Emoji、代码复制、代码行、todoList、提示
 组件右侧可开启树形大纲，支持收起跳转。
 
-<img src="https://github.com/ZTrainWilliams/md-preview/asset/view.jpg" alt="view">
+<img src="https://github.com/ZTrainWilliams/md-preview/blob/main/asset/view.jpg" alt="view">
 
 ### 依赖
 
