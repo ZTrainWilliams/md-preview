@@ -13,9 +13,9 @@
 ### 其他
 
 [v-md-editor](http://ckang1229.gitee.io/vue-markdown-editor/zh/)
-公式、流程图实现官方文档都有 demo，demo 是以 cdn 形式引入，可对应更改。
+中的公式、流程图实现官方文档都有 demo，demo 是以 cdn 形式引入，可对应更改。
 
-mermaid 的 demo-cdn 链接不可用，需要指定版本
+流程图mermaid 的 demo-cdn 链接不可用，使用需要指定版本，如下
 
 ```javascript
 <script src="https://unpkg.com/mermaid@9.4.0/dist/mermaid.min.js"></script>
