@@ -22,3 +22,10 @@ mermaid 的 demo-cdn 链接不可用，需要指定版本
 ```
 
 mermaid@9.4.0支持 ssr
+
+增加markdown转成html格式的预览组件，HtmlPreview。
+
+
+#### vue@3
+
+vue3可使用 [md-editor-v3](https://imzbf.github.io/md-editor-v3/zh-CN/demo#%F0%9F%93%84%20%E7%9B%AE%E5%BD%95%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%B1%95%E7%A4%BA)
