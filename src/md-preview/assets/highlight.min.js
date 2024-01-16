@@ -1,3 +1,4 @@
+/* eslint-disable */
 /*!
   Highlight.js v11.7.0 (git: 82688fad18)
   (c) 2006-2022 undefined and other contributors
